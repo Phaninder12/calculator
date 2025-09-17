@@ -42,7 +42,7 @@ calculator/
 2.cd calculator
 3. Open index.html in your browser.
 
-https://Phaninder12.github.io/calculator/
+
 
 
 
