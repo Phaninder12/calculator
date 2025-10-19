@@ -1,7 +1,5 @@
 {
   "projects": {
-    "default": "calculator-63b4f"
-  },
-  "targets": {},
-  "etags": {}
+    "default": "calculator-app-d779a"
+  }
 }
