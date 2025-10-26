@@ -89,7 +89,7 @@ function evaluateExpression(expr) {
           if (b === 0) throw new Error("Division by zero");
           stack.push(a / b);
           break;
-        case "%": stack.push(a % b); break; // percentage (modulus)
+        case "%": stack.push(a * b / 100); break; // percentage (modulus)
       }
     }
   });
